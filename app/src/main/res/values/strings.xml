@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kalkulator Zakat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dismiss">dismiss</string>
+    <string name="blm_ada">Yakin Ingin Keluar ?</string>
+    <string name="accept">accept</string>
+    <string name="profil">Profil</string>
+    <string name="nama_misbah_bagaskara_purwanto">Nama : Misbah Bagaskara Purwanto</string>
+    <string name="address_street_cemara_6_vi_no_243_depok_city_province_west_java">Address : Street . cemara 6 vi, no: 243, Depok city, province: West Java</string>
+    <string name="school_child_friendly_elementary_school_boarding_school_junior_high_school_and_boarding_school">School : child friendly elementary school, boarding school junior high school and boarding school</string>
+    <string name="kembali">Kembali</string>
+</resources>
